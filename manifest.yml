@@ -1,0 +1,5 @@
+---
+applications:
+- name: sample
+  path: app.jar
+  random-route: true
